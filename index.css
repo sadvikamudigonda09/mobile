@@ -1,0 +1,11 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 100%
+}
+p
+{
+  color: rgb(159, 252, 252);
+}
+pre{
+  color: rgb(255, 255, 255);
+}
