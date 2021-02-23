@@ -1,0 +1,22 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 100%
+}
+h1
+{
+  color: rgb(159, 252, 252);
+}
+h2
+{
+  color:rgb(159, 252, 252);
+}
+table
+{
+  background-color:rgb(107,141,237);
+}
+a{
+color:black;
+}
+ul{
+  color:white;
+}
